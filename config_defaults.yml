@@ -3,5 +3,11 @@
   library_type:
     module-sync-testing-target:        [nservicebus-custom-check]
 
-appveyor.yml:
-  image: 'Visual Studio 2019'
+README.md:
+  description: 'My module has an awesome description'
+  my_array:
+    - item1
+    - item2
+
+README2.md:
+  description: 'first time sync only'
