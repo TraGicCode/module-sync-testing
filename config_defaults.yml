@@ -1,0 +1,7 @@
+---
+:global:
+  library_type:
+    module-sync-testing-target:        [nservicebus-custom-check]
+
+appveyor.yml:
+  image: 'Visual Studio 2019'
